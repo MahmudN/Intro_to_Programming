@@ -1,3 +1,3 @@
-# Intro_to_Programming
+# Intro to Programming with Python
 
 A Juptyer notebook to 
